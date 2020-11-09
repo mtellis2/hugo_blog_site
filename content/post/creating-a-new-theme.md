@@ -1,5 +1,5 @@
 ---
-author: ["Michael Ellis"]
+author: "Michael Ellis"
 date: 2014-09-28
 title: Creating a New Theme
 image: 'artist.jpg'

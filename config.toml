@@ -15,17 +15,17 @@ pygmentsCodefencesGuessSyntax = true
     name = "Weru"
     url = "https://www.linkedin.com/in/dan-weru-profile/"
   [[params.authors]]
-    name = "michaelEllis" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
+    name = "Michael" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
     fullName = "Michael Ellis" # optional. If set, it will display on author card
     bio = "It's time to flex. Write a short or not-so-short summary about yourself."
     photo = "myPhotoFile.jpg"
-    url = "https://myURLofChoice.domain"
+    url = "https://www.linkedin.com/in/michael-ellis-72962276/"
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
 
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "" # twitter handle e.g @weru
+  twitter = "@M_elli5" # twitter handle e.g @weru
   # logo = "logo.png"
-  # author = "Weru" # default author
+  # author = "Michael" # default author
   # image = "placeholder-image.png" # used whenever a page image is not set
   # blogDir = "blogFolderName" # uncomment and edit to exclude normal pages ... see issue #57
 # [params.staticman]
@@ -47,12 +47,8 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
   [[menu.main]]
     name = "Development"
-    url = "categories/development/"
+    url = "categories/blog/"
     weight = 3
-  [[menu.main]]
-    name = "Golang"
-    url = "categories/golang/"
-    weight = 4
   [[menu.main]]
     name = "Go"
     url = "tags/go/"
